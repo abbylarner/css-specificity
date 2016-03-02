@@ -281,6 +281,7 @@ div.margin2 section p {
 .margin2 > div > p {
 	margin: 0 auto;
 }
+```
 
 ## Problem 7
 ### What will the text-decoration on footer links be?
